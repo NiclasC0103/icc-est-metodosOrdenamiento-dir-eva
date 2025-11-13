@@ -4,7 +4,7 @@
 
 En esta evaluación práctica deberás implementar algoritmos de ordenamiento para gestionar listas de autos. El ordenamiento es una operación fundamental en la programación que permite organizar datos de manera eficiente para su posterior búsqueda, análisis y presentación. 
 
-Tu tarea es implementar métodos de ordenamiento que puedan manejar diferentes casos: marcas simples, marcas con mayúsculas y minúsculas mezcladas, y marcas con caracteres especiales como espacios, guiones y acentos.
+Tu tarea es implementar métodos de ordenamiento que puedan manejar diferentes casos: marcas simples, marcas con mayúsculas y minúsculas mezcladas, y marcas con caracteres especiales como espacios, guiones y acentos
 
 ## Objetivo
 
